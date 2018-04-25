@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="798px" height="1024px" viewBox="0 0 798 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Stone/Website</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="113.777778" y="0" width="796.444444" height="113.777778" rx="56.8888889"></rect>
+        <rect id="path-2" x="113.777778" y="910.222222" width="796.444444" height="113.777778" rx="56.8888889"></rect>
+        <rect id="path-3" x="113.777778" y="227.555556" width="796.444444" height="113.777778" rx="56.8888889"></rect>
+        <rect id="path-4" x="284.444444" y="455.111111" width="455.111111" height="113.777778" rx="56.8888889"></rect>
+        <path d="M113.777778,56.8805625 C113.777778,25.4662953 139.240893,0 170.666667,0 C202.085532,0 227.555556,25.4720342 227.555556,56.8805625 L227.555556,967.119437 C227.555556,998.533705 202.092441,1024 170.666667,1024 C139.247801,1024 113.777778,998.527966 113.777778,967.119437 L113.777778,56.8805625 Z M796.444444,56.8805625 C796.444444,25.4662953 821.907559,0 853.333333,0 C884.752199,0 910.222222,25.4720342 910.222222,56.8805625 L910.222222,967.119437 C910.222222,998.533705 884.759107,1024 853.333333,1024 C821.914468,1024 796.444444,998.527966 796.444444,967.119437 L796.444444,56.8805625 Z" id="path-5"></path>
+    </defs>
+    <g id="Zedach---Atomic-Specs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-375.000000, -525.000000)">
+            <g id="Icons/Stone/Website" transform="translate(262.000000, 525.000000)">
+                <g id="Rectangle-20">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#262628" stroke-width="56.8888889" x="142.222222" y="28.4444444" width="739.555556" height="56.8888889" rx="28.4444444"></rect>
+                </g>
+                <g id="Rectangle-20-Copy">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#262628" stroke-width="56.8888889" x="142.222222" y="938.666667" width="739.555556" height="56.8888889" rx="28.4444444"></rect>
+                </g>
+                <g id="Rectangle-20-Copy">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#262628" stroke-width="56.8888889" x="142.222222" y="256" width="739.555556" height="56.8888889" rx="28.4444444"></rect>
+                </g>
+                <g id="Rectangle-20-Copy">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#262628" stroke-width="56.8888889" x="312.888889" y="483.555556" width="398.222222" height="56.8888889" rx="28.4444444"></rect>
+                </g>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#262628" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

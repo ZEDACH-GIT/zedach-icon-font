@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Chevron-right Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M568.888889,455.111111 L967.119437,455.111111 C998.533705,455.111111 1024,480.574226 1024,512 C1024,543.418866 998.527966,568.888889 967.119437,568.888889 L568.888889,568.888889 L568.888889,967.119437 C568.888889,998.533705 543.425774,1024 512,1024 C480.581134,1024 455.111111,998.527966 455.111111,967.119437 L455.111111,568.888889 L56.8805625,568.888889 C25.4662953,568.888889 0,543.425774 0,512 C0,480.581134 25.4720342,455.111111 56.8805625,455.111111 L455.111111,455.111111 L455.111111,56.8805625 C455.111111,25.4662953 480.574226,0 512,0 C543.418866,0 568.888889,25.4720342 568.888889,56.8805625 L568.888889,455.111111 Z" id="path-1"></path>
+    </defs>
+    <g id="Zedach---Atomic-Specs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-1098.000000, -560.000000)">
+            <g id="Icons/Stone/Add" transform="translate(1098.000000, 560.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#262628" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

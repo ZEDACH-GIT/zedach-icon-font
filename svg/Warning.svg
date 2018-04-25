@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Zedach---Atomic-Specs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-869.000000, -285.000000)" fill="#E0A053">
+            <g id="Icons/Feedback/Warning" transform="translate(869.000000, 285.000000)">
+                <path d="M512,1024 C229.230208,1024 0,794.769792 0,512 C0,229.230208 229.230208,0 512,0 C794.769792,0 1024,229.230208 1024,512 C1024,794.769792 794.769792,1024 512,1024 Z M465.454545,279.272727 L465.454545,558.545455 L558.545455,558.545455 L558.545455,279.272727 L465.454545,279.272727 Z M465.454545,651.636364 L465.454545,744.727273 L558.545455,744.727273 L558.545455,651.636364 L465.454545,651.636364 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

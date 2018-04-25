@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Stone/Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Zedach---Atomic-Specs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard-2" transform="translate(-1143.000000, -475.000000)" stroke="#2B2B2D" stroke-width="113.777778">
+            <g id="Icons/Stone/Desktop" transform="translate(1143.000000, 475.000000)">
+                <polygon id="Path-15" points="56.8888889 56.8888889 56.8888889 739.555556 967.111111 739.555556 967.111111 56.8888889"></polygon>
+                <path d="M284.444444,967.111111 L739.555556,967.111111" id="Path-17"></path>
+                <path d="M455.111111,739.555556 L455.111111,910.222222" id="Path-18"></path>
+                <path d="M568.888889,739.555556 L568.888889,910.222222" id="Path-18"></path>
+            </g>
+        </g>
+    </g>
+</svg>

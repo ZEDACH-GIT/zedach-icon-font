@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="912px" height="1024px" viewBox="0 0 912 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Stone/Profile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Zedach---Atomic-Specs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-751.000000, -287.000000)" stroke="#2B2B2D" stroke-width="113.777778">
+            <g id="Icons/Stone/Profile" transform="translate(695.000000, 287.000000)">
+                <circle id="Oval-5" cx="512" cy="284.444444" r="227.555556"></circle>
+                <path d="M910.222222,967.111111 C910.222222,747.179051 731.93206,568.888889 512,568.888889 C292.06794,568.888889 113.777778,747.179051 113.777778,967.111111" id="Oval-6" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

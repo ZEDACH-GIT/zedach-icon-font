@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="570px" viewBox="0 0 348 570" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Stone/Chevron-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M399.285376,796.444444 C384.453361,796.444444 369.621346,790.869473 358.323522,779.776417 C335.669937,757.533417 335.669937,721.580538 358.323522,699.337539 L549.111903,512.007111 L358.323522,324.676683 C335.669937,302.433684 335.669937,266.480805 358.323522,244.237805 C380.977108,221.994806 417.593645,221.994806 440.24723,244.237805 L671.997465,471.787672 C694.651051,494.030671 694.651051,529.98355 671.997465,552.22655 L440.24723,779.776417 C428.949406,790.869473 414.117391,796.444444 399.285376,796.444444" id="path-1"></path>
+    </defs>
+    <g id="Zedach---Atomic-Specs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-698.000000, -620.000000)">
+            <g id="Icons/Stone/Chevron-left" transform="translate(357.000000, 393.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Fill-1" fill="#231F20" fill-rule="evenodd" transform="translate(515.160494, 512.000000) scale(-1, 1) translate(-515.160494, -512.000000) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
