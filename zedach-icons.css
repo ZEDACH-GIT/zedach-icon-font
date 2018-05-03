@@ -1,67 +1,67 @@
-.icon {
-    font-family: 'zedach-icons';
+.ze-icon {
+    font-family: 'zedach.ze-icons';
 }
-.icon::before {
+.ze-icon::before {
     display: block;
 }
 
-.icon_arrow-left::before {
+.ze-icon_arrow-left::before {
     content: 'A';
 }
-.icon_arrow-right::before {
+.ze-icon_arrow-right::before {
     content: 'B';
 }
-.icon_light-bulb::before {
+.ze-icon_light-bulb::before {
     content: 'C';
 }
-.icon_edit::before {
+.ze-icon_edit::before {
     content: 'D';
 }
-.icon_trash::before {
+.ze-icon_trash::before {
     content: 'E';
 }
-.icon_image::before {
+.ze-icon_image::before {
     content: 'F';
 }
-.icon_logout::before {
+.ze-icon_logout::before {
     content: 'G';
 }
-.icon_upload::before {
+.ze-icon_upload::before {
     content: 'H';
 }
-.icon_close::before {
+.ze-icon_close::before {
     content: 'I';
 }
-.icon_check::before {
+.ze-icon_check::before {
     content: 'J';
 }
-.icon_plus::before {
+.ze-icon_plus::before {
     content: 'K';
 }
-.icon_location::before {
+.ze-icon_location::before {
     content: 'L';
 }
-.icon_mail::before {
+.ze-icon_mail::before {
     content: 'M';
 }
-.icon_phone::before {
+.ze-icon_phone::before {
     content: 'N';
 }
-.icon_fax::before {
+.ze-icon_fax::before {
     content: 'O';
 }
-.icon_person::before {
+.ze-icon_person::before {
     content: 'P';
 }
-.icon_home::before {
+.ze-icon_home::before {
     content: 'Q';
 }
-.icon_screen-desktop::before {
+.ze-icon_screen-desktop::before {
     content: 'S';
 }
-.icon_screen-tablet::before {
+.ze-icon_screen-tablet::before {
     content: 'T';
 }
-.icon_screen-mobile::before {
+.ze-icon_screen-mobile::before {
     content: 'U';
 }
