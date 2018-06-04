@@ -1,2 +1,4 @@
 Session.vim
 .undodir
+dist/
+node_modules
