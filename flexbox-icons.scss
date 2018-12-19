@@ -11,6 +11,7 @@
 .ze-icon {
     font-family: 'FLEXBOX-icons';
     display: inline-block;
+    text-transform: none !important;
 }
 .ze-icon::before {
     display: block;
