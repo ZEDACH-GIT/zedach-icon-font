@@ -1,11 +1,11 @@
 {
-  "name": "zedach-icon-font",
+  "name": "flexbox-icon-font",
   "version": "0.0.8",
-  "description": "Icon font for zedach",
+  "description": "Icon font for flexbox",
   "main": "demo.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node-sass zedach-icons.scss > dist/zedach-icons.css"
+    "build": "node-sass ./flexbox-icons.scss > ./dist/flexbox-icons.css"
   },
   "repository": {
     "type": "git",
