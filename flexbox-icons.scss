@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'FLEXBOX-icons';
+    src:
+        url('~zedach-icon-font/fonts/FLEXBOX-icons-Regular.woff') format('woff'),
+        url('~zedach-icon-font/fonts/FLEXBOX-icons-Regular.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+    font-variant-ligatures: discretionary-ligatures; 
+}
+
+.ze-icon {
+    font-family: 'FLEXBOX-icons';
+    display: inline-block;
+}
+.ze-icon::before {
+    display: block;
+}
+
+.ze-icon_arrow-left::before {
+    content: 'chevron';
+    transform: rotate(180deg);
+}
+.ze-icon_arrow-right::before {
+    content: 'chevron';
+}
+.ze-icon_light-bulb::before {
+    content: 'hint';
+}
+.ze-icon_edit::before {
+    content: 'edit';
+}
+.ze-icon_trash::before {
+    content: 'remove';
+}
+.ze-icon_image::before {
+    content: 'image';
+}
+.ze-icon_logout::before {
+    content: 'logout';
+}
+.ze-icon_upload::before {
+    content: 'upload';
+}
+.ze-icon_close::before {
+    content: 'close';
+}
+.ze-icon_check::before {
+    content: 'check';
+}
+.ze-icon_plus::before {
+    content: 'add';
+}
+.ze-icon_location::before {
+    content: 'location';
+}
+.ze-icon_mail::before {
+    content: 'email';
+}
+.ze-icon_phone::before {
+    content: 'phone';
+}
+.ze-icon_fax::before {
+    content: 'fax';
+}
+.ze-icon_person::before {
+    content: 'user';
+}
+.ze-icon_home::before {
+    content: 'home';
+}
+.ze-icon_screen-desktop::before {
+    content: 'desktop';
+}
+.ze-icon_screen-tablet::before {
+    content: 'tablet';
+}
+.ze-icon_screen-mobile::before {
+    content: 'mobile';
+}
+.ze-icon_escape::before {
+    content: 'esc';
+}
+.ze-icon_enter::before {
+    content: 'enter';
+}
+.ze-icon_video::before {
+    content: 'video';
+}
+.ze-icon_announcement::before {
+    content: 'announcement';
+}
