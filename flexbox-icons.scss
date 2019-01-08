@@ -5,7 +5,6 @@
         url('~flexbox-icon-font/fonts/FLEXBOX-icons-Regular.otf') format('otf');
     font-weight: normal;
     font-style: normal;
-    font-variant-ligatures: discretionary-ligatures; 
 }
 
 .ze-icon {
@@ -17,76 +16,83 @@
     display: block;
 }
 
-.ze-icon_arrow-left::before {
-    content: '\2c88';
+.ze-icon_chevron-left::before {
+    content: '\1f03';
     transform: rotate(180deg);
 }
+.ze-icon_chevron-right::before {
+    content: '\1f03';
+}
+.ze-icon_arrow-left::before {
+    content: '\1f25';
+}
 .ze-icon_arrow-right::before {
-    content: '\2c88';
+    content: '\1f25';
+    transform: rotate(180deg);
 }
 .ze-icon_hint::before {
-    content: '\2c82';
+    content: '\1f11';
 }
 .ze-icon_edit::before {
-    content: '\03ea';
+    content: '\1f0e';
 }
 .ze-icon_trash::before {
-    content: '\03eb';
+    content: '\1f21';
 }
 .ze-icon_image::before {
-    content: '\2c87';
+    content: '\1f1b';
 }
 .ze-icon_logout::before {
-    content: '\03e5';
+    content: '\1f15';
 }
 .ze-icon_upload::before {
-    content: '\03e3';
+    content: '\1f22';
 }
 .ze-icon_close::before {
-    content: '\03e4';
+    content: '\1f04';
 }
 .ze-icon_check::before {
-    content: '\03ee';
+    content: '\1f02';
 }
 .ze-icon_plus::before {
-    content: '\2c80';
+    content: '\1f00';
 }
 .ze-icon_location::before {
-    content: '\03ef';
+    content: '\1f14';
 }
 .ze-icon_mail::before {
-    content: '\03e8';
+    content: '\1f0f';
 }
 .ze-icon_phone::before {
-    content: '\2c85';
+    content: '\1f20';
 }
 .ze-icon_fax::before {
-    content: '\03ec';
+    content: '\1f10';
 }
 .ze-icon_person::before {
-    content: '\03ed';
+    content: '\1f23';
 }
 .ze-icon_home::before {
-    content: '\2c81';
+    content: '\1f1a';
 }
 .ze-icon_screen-desktop::before {
-    content: '\2c84';
+    content: '\1f05';
 }
 .ze-icon_screen-tablet::before {
-    content: '\03e7';
+    content: '\1f19';
 }
 .ze-icon_screen-mobile::before {
-    content: '\03e9';
+    content: '\1f18';
 }
 .ze-icon_escape::before {
-    content: '\03e2';
+    content: '\1f26';
 }
 .ze-icon_enter::before {
-    content: '\03e6';
+    content: '\1f08';
 }
 .ze-icon_video::before {
-    content: '\2c83';
+    content: '\1f24';
 }
 .ze-icon_announcement::before {
-    content: '\2c86';
+    content: '\1f01';
 }
