@@ -25,10 +25,10 @@
 }
 .ze-icon_arrow-left::before {
     content: '\1f25';
+    transform: rotate(180deg);
 }
 .ze-icon_arrow-right::before {
     content: '\1f25';
-    transform: rotate(180deg);
 }
 .ze-icon_hint::before {
     content: '\1f11';
